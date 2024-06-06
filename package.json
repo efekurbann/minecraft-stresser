@@ -1,0 +1,15 @@
+{
+  "name": "stresser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stresser.js",
+  "scripts": {
+    "start": "node stresser.js"
+  },
+  "keywords": [],
+  "author": "Efe Kurban",
+  "dependencies": {
+    "mineflayer": "^4.20.1",
+    "readline-sync": "^1.4.10"
+  }
+}
